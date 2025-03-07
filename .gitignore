@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Diabetes-alzhimers.Rproj
+Data/
+clustering.r
+*.doc
+*.csv
